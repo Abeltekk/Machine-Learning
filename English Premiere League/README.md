@@ -1,2 +1,1 @@
-This is a dataset from the English Premiere League. 
-We have here past 20 years dataset we can use for predictive analysis but I used a small clip of the dataset for basic classification to understand patterns.
+This is a dataset from the English Premiere League and we have here past 20 years dataset we can use for predictive analysis but I used a small clip of the dataset for basic classification to understand patterns.
