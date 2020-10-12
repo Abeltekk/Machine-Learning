@@ -47,6 +47,7 @@ model.fit(x_train, y_train)
 acc = model.score(x_test, y_test)
 print(acc)
 
+
 #accuracy goes as high as 90 Percent
 
 
