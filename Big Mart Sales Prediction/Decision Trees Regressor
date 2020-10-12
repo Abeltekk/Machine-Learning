@@ -27,6 +27,7 @@ model = DecisionTreeRegressor(max_depth = 15,min_samples_leaf=200)
 
 model.fit(x_train, y_train)
 acc = model.score(x_test, y_test)
+
 print (acc)
 
 
