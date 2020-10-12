@@ -87,4 +87,5 @@ predictions = model.predict(x_test)
 print ("Accuracy is equal to", acc)
 for i in range(len(x_test)):
     print (x_test[i], predictions[i], y_test[i])
+    
 
