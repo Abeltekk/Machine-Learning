@@ -9,6 +9,7 @@ import sklearn
 from sklearn import svm
 
 
+
 rating = []
 comments = []
 overall = []
